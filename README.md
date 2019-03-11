@@ -1,7 +1,7 @@
 # 2019-captcha-solver-study
 
 based on ML, target is the captcha version 1.0 that is OCR character input for protect the robots.<br> 
-we making the captch-solver by study that start at **2019.03.11 ~**<br>
+we making the captch-solver by study that start at **2019.03.11 ~** <br>
 Members, i wrote the above 
 
 
