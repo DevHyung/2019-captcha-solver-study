@@ -1,7 +1,7 @@
 # 2019-captcha-solver-study
 
 based on ML, target is the captcha version 1.0 that is OCR character input for protect the robots.<br> 
-we making the captch-solver by study that start at **2019.03.11 ~** <br>
+we making the captch-solver by study that start at **2019.03.11 ~**
 Members, i wrote the above 
 
 
@@ -36,7 +36,7 @@ Members, i wrote the above
 - **매주 모임은 목요일** 
 - 모든 스터디 자료는 이 repository를 통해 공유하는 것을 원칙으로 합니다.
 - Commit
-  - Commit message example : `(verb) (what do you do ) (file or folder )`
+  - Commit message example : `(verb) (what do you do ) at (file or folder )`
 - Code
   * 논문 구현 코드를 논문 별로 폴더를 만들어서 commit합니다.
   * 수정 사항을 영어로 적을 때는 명령문으로, 첫 글자는 대문자로 적습니다.
