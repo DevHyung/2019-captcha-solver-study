@@ -34,18 +34,7 @@ Members, i wrote the above
 
 ## 💡 Rule
 - **Weekly meetings are Thursday** 
-<details><summary> More Rule... </summary>
-<p>
-  모든 스터디 자료는 이 repository를 통해 공유하는 것을 원칙으로 합니다. <br>
-  Commit message example : `(verb) (what do you do ) at (file or folder )`<br>
-  * 논문 구현 코드를 논문 별로 폴더를 만들어서 commit합니다.<br>
-  * 수정 사항을 영어로 적을 때는 명령문으로, 첫 글자는 대문자로 적습니다.<br>
-  * 두 명 이상의 사람이 동시에 같은 파일을 수정하지 않도록 주의합니다.<br>
-</p>
-</details>
-
-
-- 
+- Commit message example : `(verb) (what do you do ) at (file or folder )`<br>
 
 
 
