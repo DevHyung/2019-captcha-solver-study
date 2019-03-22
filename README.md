@@ -11,7 +11,7 @@ Members, i wrote the above
 
 - [X] pandas, numpy mini project
 - [ ] HEXO blog for presentation the study content
-- [ ] git brunch, pull requests, issue template
+- [ ] git branch, pull requests, issue template
 - [ ] MNIST, OCR basic example code 
 - [ ] Basing tensorflow code + Mathmatical knowledge
 - [ ] Scrapping for Data collection
