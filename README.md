@@ -9,7 +9,7 @@ Members, i wrote the above
 
 ### 👉 Background
 
-- [ ] pandas, numpy mini project
+- [X] pandas, numpy mini project
 - [ ] HEXO blog for presentation the study content
 - [ ] git brunch, pull requests, issue template
 - [ ] MNIST, OCR basic example code 
