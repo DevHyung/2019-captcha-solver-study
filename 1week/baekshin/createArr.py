@@ -1,6 +1,10 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+
+t = np.array([[1,2],[3,4]])
+print(np.vsplit(t,2))#
+exit(-1)
 mean = 0 #평균
 std = 5 #표준편차
 arr1 = np.random.normal(mean, std, [5, 5]) #정규분포
