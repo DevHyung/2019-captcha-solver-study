@@ -1,3 +1,7 @@
+__author__ = ["nawook96(신동욱)", "JHyunB(백종현)"]
+'''
+    분포를 통해 랜덤 배열을 만들고 계산 후 파일 입출력.
+'''
 import numpy as np
 import matplotlib.pyplot as plt
 
