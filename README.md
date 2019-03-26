@@ -10,8 +10,10 @@ Members, i wrote the above
 ### 👉 Background
 
 - [X] pandas, numpy mini project
-- [ ] HEXO blog for presentation the study content
-- [ ] git branch, pull requests, issue template
+- [ ] **HEXO blog for presentation the study content**
+    * HEXO : `JHBaek`, `DWShin` 
+- [ ] **git branch, pull requests, issue template**
+    * GIT  : `HJPark`, `YHKim`
 - [ ] MNIST, OCR basic example code 
 - [ ] Basing tensorflow code + Mathmatical knowledge
 - [ ] Scrapping for Data collection
