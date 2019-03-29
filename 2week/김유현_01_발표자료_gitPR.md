@@ -5,8 +5,8 @@
 ## 1. Fork
 
 + 타겟 프로젝트의 저장소를 자신의 저장소로 Fork
-![1](.img/1.png)
-![2](.img/2.png)
+![1](img/1.png)
+![2](img/2.png)
 
 ## 2. clone, remote 설정
 
@@ -63,7 +63,7 @@ $ git push origin youhyeon
 ## 5. Pull Request 생성
 
 + push 완료 후 본인 계정의 github 저장소에 들어오면 **Compare & pull request** 버튼이 활성화 되어있다.
-![3](.img/3.png)
+![3](img/3.png)
 
 + 해당 버튼을 선택하여 메시지를 작성하고 PR을 생성한다. 
 
