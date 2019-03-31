@@ -1,14 +1,14 @@
 ## 💡 Intro
-Git Brunch 관련된 자료 
+Git Branch 관련된 자료 
 
 ___
 ## 💡 Index
 
 👉 Git  
 
-👉 Brunch CMD
+👉 Branch CMD
 
-👉 Brunch Practice
+👉 Branch Practice
 
 ___
 
@@ -17,8 +17,8 @@ ___
 **[📃 PDF FILE ](./Git.pdf)**
 ___
 
-## 💡 Brunch CMD
-### 👉 Why Using the brunch system ?
+## 💡 Branch CMD
+### 👉 Why Using the Branch system ?
 ["A successful Git branching model" 컬럼](https://backlog.com/git-tutorial/kr/stepup/stepup1_5.html)
 
 원문 : http://nvie.com/posts/a-successful-git-branching-model/
@@ -40,20 +40,20 @@ $ git push origin iss53
 $ git checkout master
 $ git merge iss53
 
-### Brunch List
-$ git brunch
+### Branch List
+$ git Branch
 
 ### Delete
 $ git branch -d iss53
 ```
 ___
 
-## 💡 Brunch Practice
+## 💡 Branch Practice
 ### 👉 To-Do
 1. Master 에서 아무 Py 파일 하나 만들어서 tracking 후
 2. dev 브런치를 판다. 
 3. 이동해서 1번에서 만든 파일을 수정 
-4. master brunch에 merge 
+4. master Branch에 merge 
 ___
 
 ## 💡 Ref Link
