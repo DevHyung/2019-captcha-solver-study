@@ -12,10 +12,9 @@ ___
 
 👉 Commit modify 
 ___
-[1]()
 ## 💡 Branch Fast-Forward
 먼저 커밋을 몇 번 했다고 가정하자.
-[1](https://git-scm.com/figures/18333fig0310-tn.png)
+[1](http://git-scm.com/figures/18333fig0310-tn.png)
 
 ```bash
 $ git checkout -b iss53
@@ -27,7 +26,7 @@ Switched to a new branch 'iss53'
 $ vim index.html
 $ git commit -a -m 'added a new footer [issue 53]'
 ```
-[2](https://git-scm.com/figures/18333fig0312-tn.png)
+[2-1](https://git-scm.com/figures/18333fig0312-tn.png)
 
 ```bash
 $ git checkout master
