@@ -13,6 +13,7 @@ ___
 👉 Commit modify 
 ___
 ## 💡 Branch Fast-Forward
+
 먼저 커밋을 몇 번 했다고 가정하자.
 
 ![1](img/18333fig0310-tn.png)
@@ -65,6 +66,7 @@ $ git commit -a -m 'finished the new footer [issue 53]'
  1 file changed, 1 insertion(+)
 ```
 ![5](img/18333fig0315-tn.png)
+___
 
 ## 💡 3-Way Merge
 
@@ -113,9 +115,39 @@ no changes added to commit (use "git add" and/or "git commit -a")
 ```bash
 $ git mergetool
 ```
-
 ___
 
+## 💡 Tag
+
+기본 태그 만들기 
+```bash
+$ git tag apple
+
+$ git tag
+apple
+
+$ git log --decorate
+commit e7978c94d2104e3e0e6e4a5b4a8467b1d2a2ba19 (HEAD, tag: apple, master)
+Author: yourname <yourname@yourmail.com>
+Date:   Wed Jul 18 16:43:27 2012 +0900
+
+    first commit
+```
+
+태그에 메세지 달기 
+```bash
+$ git tag -am "누구나 쉽게 이해할 수 있는 Git 입문" banana
+
+$ git tag -n
+apple           first commit
+banana          누구나 쉽게 이해할 수 있는 Git 입문
+
+```
+태그삭제하기
+```bash
+$ git tag -d <tagname>
+```
+___
 
 ## 💡 Ref Link
 * [누구나 쉽게 이해할수있는 Git 입문](https://backlog.com/git-tutorial/kr/stepup/stepup1_1.html)
