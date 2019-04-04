@@ -14,19 +14,19 @@ ___
 ___
 ## 💡 Branch Fast-Forward
 먼저 커밋을 몇 번 했다고 가정하자.
-[1](http://git-scm.com/figures/18333fig0310-tn.png)
+[1](img/18333fig0310-tn.png)
 
 ```bash
 $ git checkout -b iss53
 Switched to a new branch 'iss53'
 ```
-[2](https://git-scm.com/figures/18333fig0311-tn.png)
+[2](img/18333fig0311-tn.png)
 
 ```bash
 $ vim index.html
 $ git commit -a -m 'added a new footer [issue 53]'
 ```
-[2-1](https://git-scm.com/figures/18333fig0312-tn.png)
+[2-1](img/18333fig0312-tn.png)
 
 ```bash
 $ git checkout master
@@ -39,7 +39,7 @@ $ git commit -a -m 'fixed the broken email address'
 [hotfix 3a0874c] fixed the broken email address
  1 files changed, 1 deletion(-)
 ```
-[3](https://git-scm.com/figures/18333fig0313-tn.png)
+[3](img/18333fig0313-tn.png)
 
 
 ```bash
@@ -50,7 +50,7 @@ Fast-forward
  README | 1 -
  1 file changed, 1 deletion(-)
 ```
-[4](https://git-scm.com/figures/18333fig0314-tn.png)
+[4](img/18333fig0314-tn.png)
 
 ```bash
 $ git branch -d hotfix
@@ -63,7 +63,7 @@ $ git commit -a -m 'finished the new footer [issue 53]'
 [iss53 ad82d7a] finished the new footer [issue 53]
  1 file changed, 1 insertion(+)
 ```
-[5](https://git-scm.com/figures/18333fig0315-tn.png)
+[5](img/18333fig0315-tn.png)
 
 ## 💡 3-Way Merge
 
@@ -75,10 +75,10 @@ Merge made by the 'recursive' strategy.
  README | 1 +
  1 file changed, 1 insertion(+)
 ```
-[6](https://git-scm.com/figures/18333fig0316-tn.png)
+[6](img/18333fig0316-tn.png)
 
 그후에
-[7](https://git-scm.com/figures/18333fig0317-tn.png)
+[7](img/18333fig0317-tn.png)
 
 충돌나는경우
 
