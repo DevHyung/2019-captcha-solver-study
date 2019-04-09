@@ -16,10 +16,12 @@ Members, i wrote the above
     * HEXO : `JHBaek`, `DWShin` 
 - [X] git branch, pull requests, issue template (03/29)
     * GIT  : `HJPark`, `YHKim`
-- [ ] **advanced Git ( --no-ff option, branch, fast forward, etc..)  (Expected)**
+- [X] advanced Git ( --no-ff option, branch, fast forward, etc..)  (04/04)
     * `JHBaek`, `DWShin`, `HJPark`, `YHKim`
-- [ ] MNIST, OCR basic example code 
-- [ ] Basing tensorflow code + Mathmatical knowledge
+- [ ] **MNIST, OCR basic example code(Expected 04/11)**
+    * PyTorch : `HJPark`,`DWShin`  TensorFlow : `HJBaek`, `YHKim`
+- [ ] **Basic tensorflow code + Mathmatical knowledge(Expected 04/11)**
+    * PyTorch : `HJPark`,`DWShin`  TensorFlow : `HJBaek`, `YHKim`
 - [ ] Scrapping for Data collection
 - [ ] Basic web page for Data labeling (if need to JS, include ts,node JS)
 
