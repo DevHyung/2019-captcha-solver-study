@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 import pandas as pd
-__author__ = "youhyeoneee(김유현)"
-#출처 : https://doorbw.tistory.com/172
+
 '''
 Serirs 기초 
 '''
